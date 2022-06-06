@@ -10,11 +10,10 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy 😄',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    
     title: 'Hè này có muốn t về không',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy 😄',
     btnYes: 'Cóoo',
     btnNo: 'Không nha:3',
-    
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại gọi cho t <3',
     btnReply: 'Gửi <3',
     reply: 'Phái Phái <33333333',
